@@ -1,0 +1,25 @@
+首先我现在才发现原来github可以随便放东西，
+比如写博客中文都可以，我一直以为只能放代码！！
+
+这个是github for windows教程
+http://youngxhui.github.io/2016/05/03/GitHub-for-Windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B(%E4%B8%80)/
+
+之前有中文乱码
+
+解决方法为
+解决办法：
+
+Step 1 . 将 README.md 文件使用 Notepad++ 软件打开。 
+（如果你的电脑上没有 Notepad++ 软件，你可以参考这篇博客来下载安装它。）
+
+Step 2 . 选择： 格式 -> 转为 Utf-8 无 BOM 编码格式
+
+Step 3 . 保存 README.md 文件
+
+Step 4 . 将修改重新推送到 GitHub 远程。
+
+以后可以在github上写博客了 哈哈哈
+
+可以在csdn和github同步写博客
+
+123456789
