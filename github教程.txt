@@ -1,4 +1,5 @@
-创建的第一个分支 new master
+创建一个新功能分支add new function 
+演示Github Flow
 
 第一次修改
 
